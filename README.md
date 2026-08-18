@@ -14,6 +14,7 @@ regular
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/manoj-s2006/DSA/tree/master/0477-total-hamming-distance) |
+| [2235-add-two-integers](https://github.com/manoj-s2006/DSA/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
