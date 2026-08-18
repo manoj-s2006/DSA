@@ -8,6 +8,7 @@ regular
 | ------- |
 | [0477-total-hamming-distance](https://github.com/manoj-s2006/DSA/tree/master/0477-total-hamming-distance) |
 | [1184-distance-between-bus-stops](https://github.com/manoj-s2006/DSA/tree/master/1184-distance-between-bus-stops) |
+| [1470-shuffle-the-array](https://github.com/manoj-s2006/DSA/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/manoj-s2006/DSA/tree/master/1929-concatenation-of-array) |
 ## Math
 |  |
