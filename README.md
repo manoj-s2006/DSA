@@ -19,6 +19,7 @@ regular
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/0191-number-of-1-bits) |
 | [0477-total-hamming-distance](https://github.com/manoj-s2006/DSA/tree/master/0477-total-hamming-distance) |
 ## Simulation
 |  |
@@ -28,4 +29,8 @@ regular
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manoj-s2006/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
