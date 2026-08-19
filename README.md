@@ -6,6 +6,7 @@ regular
 ## Array
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/manoj-s2006/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0477-total-hamming-distance](https://github.com/manoj-s2006/DSA/tree/master/0477-total-hamming-distance) |
 | [1184-distance-between-bus-stops](https://github.com/manoj-s2006/DSA/tree/master/1184-distance-between-bus-stops) |
 | [1470-shuffle-the-array](https://github.com/manoj-s2006/DSA/tree/master/1470-shuffle-the-array) |
@@ -23,4 +24,8 @@ regular
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/manoj-s2006/DSA/tree/master/1929-concatenation-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/manoj-s2006/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
