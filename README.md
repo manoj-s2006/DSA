@@ -11,6 +11,7 @@ regular
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manoj-s2006/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0477-total-hamming-distance](https://github.com/manoj-s2006/DSA/tree/master/0477-total-hamming-distance) |
 | [1184-distance-between-bus-stops](https://github.com/manoj-s2006/DSA/tree/master/1184-distance-between-bus-stops) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/manoj-s2006/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/manoj-s2006/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/manoj-s2006/DSA/tree/master/1929-concatenation-of-array) |
@@ -25,6 +26,7 @@ regular
 | ------- |
 | [0191-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/0191-number-of-1-bits) |
 | [0477-total-hamming-distance](https://github.com/manoj-s2006/DSA/tree/master/0477-total-hamming-distance) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 ## Simulation
 |  |
 | ------- |
@@ -65,4 +67,12 @@ regular
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manoj-s2006/DSA/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 <!---LeetCode Topics End-->
