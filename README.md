@@ -47,6 +47,7 @@ regular
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manoj-s2006/DSA/tree/master/0042-trapping-rain-water) |
+| [0344-reverse-string](https://github.com/manoj-s2006/DSA/tree/master/0344-reverse-string) |
 ## Stack
 |  |
 | ------- |
@@ -59,6 +60,7 @@ regular
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manoj-s2006/DSA/tree/master/0014-longest-common-prefix) |
+| [0344-reverse-string](https://github.com/manoj-s2006/DSA/tree/master/0344-reverse-string) |
 ## Trie
 |  |
 | ------- |
