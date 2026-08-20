@@ -67,6 +67,7 @@ regular
 | [0014-longest-common-prefix](https://github.com/manoj-s2006/DSA/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/manoj-s2006/DSA/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/manoj-s2006/DSA/tree/master/0344-reverse-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/manoj-s2006/DSA/tree/master/0434-number-of-segments-in-a-string) |
 ## Trie
 |  |
 | ------- |
