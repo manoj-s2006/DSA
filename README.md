@@ -76,6 +76,7 @@ regular
 | [0434-number-of-segments-in-a-string](https://github.com/manoj-s2006/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/manoj-s2006/DSA/tree/master/0500-keyboard-row) |
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [3856-trim-trailing-vowels](https://github.com/manoj-s2006/DSA/tree/master/3856-trim-trailing-vowels) |
 ## Trie
 |  |
 | ------- |
