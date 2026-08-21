@@ -31,6 +31,7 @@ regular
 | [0191-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/0191-number-of-1-bits) |
 | [0477-total-hamming-distance](https://github.com/manoj-s2006/DSA/tree/master/0477-total-hamming-distance) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Simulation
 |  |
 | ------- |
@@ -71,6 +72,7 @@ regular
 | [0344-reverse-string](https://github.com/manoj-s2006/DSA/tree/master/0344-reverse-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/manoj-s2006/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/manoj-s2006/DSA/tree/master/0500-keyboard-row) |
+| [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Trie
 |  |
 | ------- |
@@ -85,6 +87,7 @@ regular
 |  |
 | ------- |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Greedy
 |  |
 | ------- |
@@ -101,6 +104,7 @@ regular
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/manoj-s2006/DSA/tree/master/0500-keyboard-row) |
+| [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
