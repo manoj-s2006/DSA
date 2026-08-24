@@ -16,6 +16,7 @@ regular
 | [0287-find-the-duplicate-number](https://github.com/manoj-s2006/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0477-total-hamming-distance](https://github.com/manoj-s2006/DSA/tree/master/0477-total-hamming-distance) |
 | [0500-keyboard-row](https://github.com/manoj-s2006/DSA/tree/master/0500-keyboard-row) |
+| [0605-can-place-flowers](https://github.com/manoj-s2006/DSA/tree/master/0605-can-place-flowers) |
 | [1184-distance-between-bus-stops](https://github.com/manoj-s2006/DSA/tree/master/1184-distance-between-bus-stops) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1470-shuffle-the-array](https://github.com/manoj-s2006/DSA/tree/master/1470-shuffle-the-array) |
@@ -118,6 +119,7 @@ regular
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/manoj-s2006/DSA/tree/master/0179-largest-number) |
+| [0605-can-place-flowers](https://github.com/manoj-s2006/DSA/tree/master/0605-can-place-flowers) |
 ## Quicksort
 |  |
 | ------- |
