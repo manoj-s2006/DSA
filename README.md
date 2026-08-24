@@ -20,6 +20,7 @@ regular
 | [1470-shuffle-the-array](https://github.com/manoj-s2006/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/manoj-s2006/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/manoj-s2006/DSA/tree/master/1929-concatenation-of-array) |
+| [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/manoj-s2006/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manoj-s2006/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -85,6 +86,7 @@ regular
 | [0434-number-of-segments-in-a-string](https://github.com/manoj-s2006/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/manoj-s2006/DSA/tree/master/0500-keyboard-row) |
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
 | [3856-trim-trailing-vowels](https://github.com/manoj-s2006/DSA/tree/master/3856-trim-trailing-vowels) |
 ## Trie
 |  |
@@ -96,6 +98,7 @@ regular
 | [0075-sort-colors](https://github.com/manoj-s2006/DSA/tree/master/0075-sort-colors) |
 | [0179-largest-number](https://github.com/manoj-s2006/DSA/tree/master/0179-largest-number) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/manoj-s2006/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Counting
 |  |
@@ -120,6 +123,7 @@ regular
 | ------- |
 | [0500-keyboard-row](https://github.com/manoj-s2006/DSA/tree/master/0500-keyboard-row) |
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Binary Search
 |  |
