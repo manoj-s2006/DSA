@@ -84,6 +84,7 @@ regular
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/manoj-s2006/DSA/tree/master/0042-trapping-rain-water) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manoj-s2006/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -96,6 +97,7 @@ regular
 | [0344-reverse-string](https://github.com/manoj-s2006/DSA/tree/master/0344-reverse-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/manoj-s2006/DSA/tree/master/0434-number-of-segments-in-a-string) |
 | [0500-keyboard-row](https://github.com/manoj-s2006/DSA/tree/master/0500-keyboard-row) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manoj-s2006/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
 | [3856-trim-trailing-vowels](https://github.com/manoj-s2006/DSA/tree/master/3856-trim-trailing-vowels) |
