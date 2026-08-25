@@ -28,6 +28,7 @@ regular
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manoj-s2006/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/manoj-s2006/DSA/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/manoj-s2006/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/manoj-s2006/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 ## Math
 |  |
@@ -136,6 +137,7 @@ regular
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/manoj-s2006/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
