@@ -44,6 +44,7 @@ regular
 | [2652-sum-multiples](https://github.com/manoj-s2006/DSA/tree/master/2652-sum-multiples) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/manoj-s2006/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3894-traffic-signal-color](https://github.com/manoj-s2006/DSA/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -59,6 +60,7 @@ regular
 | [1929-concatenation-of-array](https://github.com/manoj-s2006/DSA/tree/master/1929-concatenation-of-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manoj-s2006/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3838-weighted-word-mapping](https://github.com/manoj-s2006/DSA/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/manoj-s2006/DSA/tree/master/3894-traffic-signal-color) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,6 +107,7 @@ regular
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
 | [3838-weighted-word-mapping](https://github.com/manoj-s2006/DSA/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/manoj-s2006/DSA/tree/master/3856-trim-trailing-vowels) |
+| [3894-traffic-signal-color](https://github.com/manoj-s2006/DSA/tree/master/3894-traffic-signal-color) |
 ## Trie
 |  |
 | ------- |
