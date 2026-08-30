@@ -52,6 +52,7 @@ regular
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/manoj-s2006/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3894-traffic-signal-color](https://github.com/manoj-s2006/DSA/tree/master/3894-traffic-signal-color) |
+| [3908-valid-digit-number](https://github.com/manoj-s2006/DSA/tree/master/3908-valid-digit-number) |
 ## Bit Manipulation
 |  |
 | ------- |
