@@ -50,6 +50,7 @@ regular
 | [2235-add-two-integers](https://github.com/manoj-s2006/DSA/tree/master/2235-add-two-integers) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/manoj-s2006/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/manoj-s2006/DSA/tree/master/2469-convert-the-temperature) |
+| [2485-find-the-pivot-integer](https://github.com/manoj-s2006/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2652-sum-multiples](https://github.com/manoj-s2006/DSA/tree/master/2652-sum-multiples) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/manoj-s2006/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manoj-s2006/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -92,6 +93,7 @@ regular
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/manoj-s2006/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/manoj-s2006/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [2485-find-the-pivot-integer](https://github.com/manoj-s2006/DSA/tree/master/2485-find-the-pivot-integer) |
 ## Two Pointers
 |  |
 | ------- |
