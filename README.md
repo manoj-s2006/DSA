@@ -60,6 +60,7 @@ regular
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/manoj-s2006/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3894-traffic-signal-color](https://github.com/manoj-s2006/DSA/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/manoj-s2006/DSA/tree/master/3908-valid-digit-number) |
+| [3959-check-good-integer](https://github.com/manoj-s2006/DSA/tree/master/3959-check-good-integer) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -78,6 +79,7 @@ regular
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/manoj-s2006/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3838-weighted-word-mapping](https://github.com/manoj-s2006/DSA/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/manoj-s2006/DSA/tree/master/3894-traffic-signal-color) |
+| [3959-check-good-integer](https://github.com/manoj-s2006/DSA/tree/master/3959-check-good-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
