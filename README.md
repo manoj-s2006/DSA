@@ -41,6 +41,7 @@ regular
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/manoj-s2006/DSA/tree/master/0009-palindrome-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/manoj-s2006/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/manoj-s2006/DSA/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/manoj-s2006/DSA/tree/master/0477-total-hamming-distance) |
