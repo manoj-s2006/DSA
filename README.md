@@ -27,6 +27,7 @@ regular
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manoj-s2006/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/manoj-s2006/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2788-split-strings-by-separator](https://github.com/manoj-s2006/DSA/tree/master/2788-split-strings-by-separator) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manoj-s2006/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/manoj-s2006/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manoj-s2006/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -116,6 +117,7 @@ regular
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manoj-s2006/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
+| [2788-split-strings-by-separator](https://github.com/manoj-s2006/DSA/tree/master/2788-split-strings-by-separator) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manoj-s2006/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3838-weighted-word-mapping](https://github.com/manoj-s2006/DSA/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/manoj-s2006/DSA/tree/master/3856-trim-trailing-vowels) |
