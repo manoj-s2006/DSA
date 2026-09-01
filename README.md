@@ -14,6 +14,7 @@ regular
 | [0118-pascals-triangle](https://github.com/manoj-s2006/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manoj-s2006/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/manoj-s2006/DSA/tree/master/0179-largest-number) |
+| [0238-product-of-array-except-self](https://github.com/manoj-s2006/DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/manoj-s2006/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0477-total-hamming-distance](https://github.com/manoj-s2006/DSA/tree/master/0477-total-hamming-distance) |
 | [0500-keyboard-row](https://github.com/manoj-s2006/DSA/tree/master/0500-keyboard-row) |
@@ -96,6 +97,7 @@ regular
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/manoj-s2006/DSA/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/manoj-s2006/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/manoj-s2006/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/manoj-s2006/DSA/tree/master/2485-find-the-pivot-integer) |
