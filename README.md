@@ -45,6 +45,7 @@ regular
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/manoj-s2006/DSA/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/manoj-s2006/DSA/tree/master/0060-permutation-sequence) |
 | [0172-factorial-trailing-zeroes](https://github.com/manoj-s2006/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/manoj-s2006/DSA/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/manoj-s2006/DSA/tree/master/0477-total-hamming-distance) |
@@ -223,4 +224,8 @@ regular
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/manoj-s2006/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/manoj-s2006/DSA/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
