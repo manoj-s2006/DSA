@@ -137,6 +137,7 @@ regular
 | [1507-reformat-date](https://github.com/manoj-s2006/DSA/tree/master/1507-reformat-date) |
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/manoj-s2006/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2788-split-strings-by-separator](https://github.com/manoj-s2006/DSA/tree/master/2788-split-strings-by-separator) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manoj-s2006/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/manoj-s2006/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
