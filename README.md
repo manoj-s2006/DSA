@@ -52,6 +52,7 @@ regular
 | [0412-fizz-buzz](https://github.com/manoj-s2006/DSA/tree/master/0412-fizz-buzz) |
 | [0477-total-hamming-distance](https://github.com/manoj-s2006/DSA/tree/master/0477-total-hamming-distance) |
 | [0728-self-dividing-numbers](https://github.com/manoj-s2006/DSA/tree/master/0728-self-dividing-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/manoj-s2006/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1137-n-th-tribonacci-number](https://github.com/manoj-s2006/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/manoj-s2006/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/manoj-s2006/DSA/tree/master/2235-add-two-integers) |
@@ -73,6 +74,7 @@ regular
 | [0287-find-the-duplicate-number](https://github.com/manoj-s2006/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/manoj-s2006/DSA/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/manoj-s2006/DSA/tree/master/0477-total-hamming-distance) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/manoj-s2006/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/manoj-s2006/DSA/tree/master/3674-minimum-operations-to-equalize-array) |
@@ -240,4 +242,8 @@ regular
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/manoj-s2006/DSA/tree/master/0060-permutation-sequence) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/manoj-s2006/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
