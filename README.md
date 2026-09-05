@@ -120,6 +120,7 @@ regular
 | [0075-sort-colors](https://github.com/manoj-s2006/DSA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/manoj-s2006/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/manoj-s2006/DSA/tree/master/0344-reverse-string) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/manoj-s2006/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/manoj-s2006/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 ## Stack
 |  |
@@ -148,6 +149,7 @@ regular
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/manoj-s2006/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/manoj-s2006/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/manoj-s2006/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2788-split-strings-by-separator](https://github.com/manoj-s2006/DSA/tree/master/2788-split-strings-by-separator) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manoj-s2006/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -182,6 +184,7 @@ regular
 | [0179-largest-number](https://github.com/manoj-s2006/DSA/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/manoj-s2006/DSA/tree/master/0605-can-place-flowers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manoj-s2006/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/manoj-s2006/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Quicksort
 |  |
 | ------- |
