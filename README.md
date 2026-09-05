@@ -153,6 +153,7 @@ regular
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/manoj-s2006/DSA/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2788-split-strings-by-separator](https://github.com/manoj-s2006/DSA/tree/master/2788-split-strings-by-separator) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manoj-s2006/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/manoj-s2006/DSA/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/manoj-s2006/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/manoj-s2006/DSA/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/manoj-s2006/DSA/tree/master/3856-trim-trailing-vowels) |
@@ -205,6 +206,7 @@ regular
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/manoj-s2006/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
+| [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/manoj-s2006/DSA/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manoj-s2006/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
