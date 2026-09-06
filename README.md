@@ -41,6 +41,7 @@ regular
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/manoj-s2006/DSA/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manoj-s2006/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/manoj-s2006/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/manoj-s2006/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/manoj-s2006/DSA/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/manoj-s2006/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
@@ -66,6 +67,7 @@ regular
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manoj-s2006/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/manoj-s2006/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/manoj-s2006/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3894-traffic-signal-color](https://github.com/manoj-s2006/DSA/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/manoj-s2006/DSA/tree/master/3908-valid-digit-number) |
 | [3959-check-good-integer](https://github.com/manoj-s2006/DSA/tree/master/3959-check-good-integer) |
