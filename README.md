@@ -30,6 +30,7 @@ regular
 | [1480-running-sum-of-1d-array](https://github.com/manoj-s2006/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manoj-s2006/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/manoj-s2006/DSA/tree/master/1929-concatenation-of-array) |
+| [2057-smallest-index-with-equal-value](https://github.com/manoj-s2006/DSA/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manoj-s2006/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/manoj-s2006/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
