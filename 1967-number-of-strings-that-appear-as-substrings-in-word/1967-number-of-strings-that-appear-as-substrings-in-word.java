@@ -1,0 +1,8 @@
+class Solution {
+    public int numOfStrings(String[] p, String w) {
+        int count=0;
+       for(int i=0;i<p.length;i++){
+        if(w.contains(p[i]))count++;
+       } return count;
+    }
+}
