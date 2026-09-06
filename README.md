@@ -160,6 +160,7 @@ regular
 | [2788-split-strings-by-separator](https://github.com/manoj-s2006/DSA/tree/master/2788-split-strings-by-separator) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manoj-s2006/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/manoj-s2006/DSA/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
+| [3330-find-the-original-typed-string-i](https://github.com/manoj-s2006/DSA/tree/master/3330-find-the-original-typed-string-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/manoj-s2006/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/manoj-s2006/DSA/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/manoj-s2006/DSA/tree/master/3856-trim-trailing-vowels) |
