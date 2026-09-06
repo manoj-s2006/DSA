@@ -36,6 +36,7 @@ regular
 | [2574-left-and-right-sum-differences](https://github.com/manoj-s2006/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2788-split-strings-by-separator](https://github.com/manoj-s2006/DSA/tree/master/2788-split-strings-by-separator) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manoj-s2006/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3131-find-the-integer-added-to-array-i](https://github.com/manoj-s2006/DSA/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/manoj-s2006/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manoj-s2006/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
