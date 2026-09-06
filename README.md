@@ -22,6 +22,7 @@ regular
 | [0560-subarray-sum-equals-k](https://github.com/manoj-s2006/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/manoj-s2006/DSA/tree/master/0605-can-place-flowers) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/manoj-s2006/DSA/tree/master/0717-1-bit-and-2-bit-characters) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/manoj-s2006/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0804-unique-morse-code-words](https://github.com/manoj-s2006/DSA/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/manoj-s2006/DSA/tree/master/0819-most-common-word) |
 | [1184-distance-between-bus-stops](https://github.com/manoj-s2006/DSA/tree/master/1184-distance-between-bus-stops) |
@@ -221,6 +222,7 @@ regular
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manoj-s2006/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/manoj-s2006/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/manoj-s2006/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
