@@ -36,6 +36,7 @@ regular
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/manoj-s2006/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2574-left-and-right-sum-differences](https://github.com/manoj-s2006/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2788-split-strings-by-separator](https://github.com/manoj-s2006/DSA/tree/master/2788-split-strings-by-separator) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/manoj-s2006/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/manoj-s2006/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/manoj-s2006/DSA/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/manoj-s2006/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -182,6 +183,7 @@ regular
 | [0819-most-common-word](https://github.com/manoj-s2006/DSA/tree/master/0819-most-common-word) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/manoj-s2006/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Greedy
 |  |
@@ -210,6 +212,7 @@ regular
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/manoj-s2006/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/manoj-s2006/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/manoj-s2006/DSA/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manoj-s2006/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
