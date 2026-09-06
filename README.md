@@ -63,6 +63,7 @@ regular
 | [1137-n-th-tribonacci-number](https://github.com/manoj-s2006/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/manoj-s2006/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/manoj-s2006/DSA/tree/master/2235-add-two-integers) |
+| [2413-smallest-even-multiple](https://github.com/manoj-s2006/DSA/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/manoj-s2006/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/manoj-s2006/DSA/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/manoj-s2006/DSA/tree/master/2485-find-the-pivot-integer) |
@@ -227,6 +228,7 @@ regular
 ## Number Theory
 |  |
 | ------- |
+| [2413-smallest-even-multiple](https://github.com/manoj-s2006/DSA/tree/master/2413-smallest-even-multiple) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Pigeonhole Principle
 |  |
