@@ -162,6 +162,7 @@ regular
 | [0819-most-common-word](https://github.com/manoj-s2006/DSA/tree/master/0819-most-common-word) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manoj-s2006/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1507-reformat-date](https://github.com/manoj-s2006/DSA/tree/master/1507-reformat-date) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/manoj-s2006/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manoj-s2006/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-rings-and-rods](https://github.com/manoj-s2006/DSA/tree/master/2103-rings-and-rods) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/manoj-s2006/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -208,6 +209,7 @@ regular
 | ------- |
 | [0179-largest-number](https://github.com/manoj-s2006/DSA/tree/master/0179-largest-number) |
 | [0605-can-place-flowers](https://github.com/manoj-s2006/DSA/tree/master/0605-can-place-flowers) |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/manoj-s2006/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manoj-s2006/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/manoj-s2006/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Quicksort
