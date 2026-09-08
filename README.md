@@ -114,6 +114,7 @@ regular
 | [0118-pascals-triangle](https://github.com/manoj-s2006/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manoj-s2006/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1137-n-th-tribonacci-number](https://github.com/manoj-s2006/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/manoj-s2006/DSA/tree/master/1668-maximum-repeating-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -162,6 +163,7 @@ regular
 | [0819-most-common-word](https://github.com/manoj-s2006/DSA/tree/master/0819-most-common-word) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manoj-s2006/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1507-reformat-date](https://github.com/manoj-s2006/DSA/tree/master/1507-reformat-date) |
+| [1668-maximum-repeating-substring](https://github.com/manoj-s2006/DSA/tree/master/1668-maximum-repeating-substring) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/manoj-s2006/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manoj-s2006/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-rings-and-rods](https://github.com/manoj-s2006/DSA/tree/master/2103-rings-and-rods) |
@@ -311,4 +313,8 @@ regular
 |  |
 | ------- |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/manoj-s2006/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+## String Matching
+|  |
+| ------- |
+| [1668-maximum-repeating-substring](https://github.com/manoj-s2006/DSA/tree/master/1668-maximum-repeating-substring) |
 <!---LeetCode Topics End-->
