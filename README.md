@@ -31,6 +31,7 @@ regular
 | [1470-shuffle-the-array](https://github.com/manoj-s2006/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/manoj-s2006/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manoj-s2006/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1512-number-of-good-pairs](https://github.com/manoj-s2006/DSA/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/manoj-s2006/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/manoj-s2006/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manoj-s2006/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -72,6 +73,7 @@ regular
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/manoj-s2006/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1137-n-th-tribonacci-number](https://github.com/manoj-s2006/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/manoj-s2006/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/manoj-s2006/DSA/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/manoj-s2006/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/manoj-s2006/DSA/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/manoj-s2006/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -212,6 +214,7 @@ regular
 | ------- |
 | [0819-most-common-word](https://github.com/manoj-s2006/DSA/tree/master/0819-most-common-word) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1512-number-of-good-pairs](https://github.com/manoj-s2006/DSA/tree/master/1512-number-of-good-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/manoj-s2006/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -240,6 +243,7 @@ regular
 | [0771-jewels-and-stones](https://github.com/manoj-s2006/DSA/tree/master/0771-jewels-and-stones) |
 | [0804-unique-morse-code-words](https://github.com/manoj-s2006/DSA/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/manoj-s2006/DSA/tree/master/0819-most-common-word) |
+| [1512-number-of-good-pairs](https://github.com/manoj-s2006/DSA/tree/master/1512-number-of-good-pairs) |
 | [2103-rings-and-rods](https://github.com/manoj-s2006/DSA/tree/master/2103-rings-and-rods) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/manoj-s2006/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
