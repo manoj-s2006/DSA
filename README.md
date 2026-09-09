@@ -56,6 +56,7 @@ regular
 | [3838-weighted-word-mapping](https://github.com/manoj-s2006/DSA/tree/master/3838-weighted-word-mapping) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/manoj-s2006/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/manoj-s2006/DSA/tree/master/3903-smallest-stable-index-i) |
+| [3925-concatenate-array-with-reverse](https://github.com/manoj-s2006/DSA/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
@@ -105,6 +106,7 @@ regular
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/manoj-s2006/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/manoj-s2006/DSA/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/manoj-s2006/DSA/tree/master/3894-traffic-signal-color) |
+| [3925-concatenate-array-with-reverse](https://github.com/manoj-s2006/DSA/tree/master/3925-concatenate-array-with-reverse) |
 | [3959-check-good-integer](https://github.com/manoj-s2006/DSA/tree/master/3959-check-good-integer) |
 ## Dynamic Programming
 |  |
