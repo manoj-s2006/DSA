@@ -45,6 +45,7 @@ regular
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/manoj-s2006/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2574-left-and-right-sum-differences](https://github.com/manoj-s2006/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/manoj-s2006/DSA/tree/master/2614-prime-in-diagonal) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/manoj-s2006/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2788-split-strings-by-separator](https://github.com/manoj-s2006/DSA/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/manoj-s2006/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manoj-s2006/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -106,6 +107,7 @@ regular
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/manoj-s2006/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/manoj-s2006/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/manoj-s2006/DSA/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Simulation
 |  |
@@ -259,6 +261,7 @@ regular
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/manoj-s2006/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/manoj-s2006/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/manoj-s2006/DSA/tree/master/2716-minimize-string-length) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/manoj-s2006/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/manoj-s2006/DSA/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
