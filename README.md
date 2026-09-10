@@ -28,6 +28,7 @@ regular
 | [1184-distance-between-bus-stops](https://github.com/manoj-s2006/DSA/tree/master/1184-distance-between-bus-stops) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/manoj-s2006/DSA/tree/master/1389-create-target-array-in-the-given-order) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/manoj-s2006/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/manoj-s2006/DSA/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/manoj-s2006/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manoj-s2006/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
