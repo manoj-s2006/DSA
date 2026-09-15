@@ -207,6 +207,7 @@ regular
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/manoj-s2006/DSA/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3110-score-of-a-string](https://github.com/manoj-s2006/DSA/tree/master/3110-score-of-a-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/manoj-s2006/DSA/tree/master/3330-find-the-original-typed-string-i) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/manoj-s2006/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/manoj-s2006/DSA/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/manoj-s2006/DSA/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/manoj-s2006/DSA/tree/master/3856-trim-trailing-vowels) |
@@ -277,6 +278,7 @@ regular
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/manoj-s2006/DSA/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manoj-s2006/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/manoj-s2006/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3945-digit-frequency-score](https://github.com/manoj-s2006/DSA/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
