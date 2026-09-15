@@ -99,6 +99,7 @@ regular
 | [3871-count-commas-in-range-ii](https://github.com/manoj-s2006/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3894-traffic-signal-color](https://github.com/manoj-s2006/DSA/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/manoj-s2006/DSA/tree/master/3908-valid-digit-number) |
+| [3945-digit-frequency-score](https://github.com/manoj-s2006/DSA/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/manoj-s2006/DSA/tree/master/3959-check-good-integer) |
 ## Bit Manipulation
 |  |
@@ -273,6 +274,7 @@ regular
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/manoj-s2006/DSA/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manoj-s2006/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3945-digit-frequency-score](https://github.com/manoj-s2006/DSA/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
 | ------- |
