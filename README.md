@@ -35,6 +35,7 @@ regular
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manoj-s2006/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/manoj-s2006/DSA/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/manoj-s2006/DSA/tree/master/1572-matrix-diagonal-sum) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manoj-s2006/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/manoj-s2006/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1929-concatenation-of-array](https://github.com/manoj-s2006/DSA/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manoj-s2006/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -190,6 +191,7 @@ regular
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manoj-s2006/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/manoj-s2006/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1507-reformat-date](https://github.com/manoj-s2006/DSA/tree/master/1507-reformat-date) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manoj-s2006/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/manoj-s2006/DSA/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/manoj-s2006/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/manoj-s2006/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
