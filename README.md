@@ -34,6 +34,7 @@ regular
 | [1480-running-sum-of-1d-array](https://github.com/manoj-s2006/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manoj-s2006/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/manoj-s2006/DSA/tree/master/1512-number-of-good-pairs) |
+| [1534-count-good-triplets](https://github.com/manoj-s2006/DSA/tree/master/1534-count-good-triplets) |
 | [1572-matrix-diagonal-sum](https://github.com/manoj-s2006/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manoj-s2006/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/manoj-s2006/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -371,6 +372,7 @@ regular
 ## Enumeration
 |  |
 | ------- |
+| [1534-count-good-triplets](https://github.com/manoj-s2006/DSA/tree/master/1534-count-good-triplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/manoj-s2006/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 ## String Matching
 |  |
