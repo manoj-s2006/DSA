@@ -46,6 +46,7 @@ regular
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manoj-s2006/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/manoj-s2006/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/manoj-s2006/DSA/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2367-number-of-arithmetic-triplets](https://github.com/manoj-s2006/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/manoj-s2006/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2553-separate-the-digits-in-an-array](https://github.com/manoj-s2006/DSA/tree/master/2553-separate-the-digits-in-an-array) |
@@ -170,6 +171,7 @@ regular
 | [0344-reverse-string](https://github.com/manoj-s2006/DSA/tree/master/0344-reverse-string) |
 | [1768-merge-strings-alternately](https://github.com/manoj-s2006/DSA/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/manoj-s2006/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/manoj-s2006/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/manoj-s2006/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manoj-s2006/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3794-reverse-string-prefix](https://github.com/manoj-s2006/DSA/tree/master/3794-reverse-string-prefix) |
@@ -291,6 +293,7 @@ regular
 | [2103-rings-and-rods](https://github.com/manoj-s2006/DSA/tree/master/2103-rings-and-rods) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/manoj-s2006/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
+| [2367-number-of-arithmetic-triplets](https://github.com/manoj-s2006/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/manoj-s2006/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/manoj-s2006/DSA/tree/master/2716-minimize-string-length) |
@@ -376,6 +379,7 @@ regular
 | ------- |
 | [1534-count-good-triplets](https://github.com/manoj-s2006/DSA/tree/master/1534-count-good-triplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/manoj-s2006/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2367-number-of-arithmetic-triplets](https://github.com/manoj-s2006/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 ## String Matching
 |  |
 | ------- |
