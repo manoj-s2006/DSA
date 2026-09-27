@@ -45,6 +45,7 @@ regular
 | [2057-smallest-index-with-equal-value](https://github.com/manoj-s2006/DSA/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manoj-s2006/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/manoj-s2006/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/manoj-s2006/DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/manoj-s2006/DSA/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2367-number-of-arithmetic-triplets](https://github.com/manoj-s2006/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
