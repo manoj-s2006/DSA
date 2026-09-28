@@ -187,6 +187,7 @@ regular
 | [0042-trapping-rain-water](https://github.com/manoj-s2006/DSA/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/manoj-s2006/DSA/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manoj-s2006/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manoj-s2006/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -206,6 +207,7 @@ regular
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manoj-s2006/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/manoj-s2006/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1507-reformat-date](https://github.com/manoj-s2006/DSA/tree/master/1507-reformat-date) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manoj-s2006/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manoj-s2006/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/manoj-s2006/DSA/tree/master/1668-maximum-repeating-substring) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/manoj-s2006/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -394,4 +396,8 @@ regular
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/manoj-s2006/DSA/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manoj-s2006/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
