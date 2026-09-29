@@ -213,6 +213,7 @@ regular
 | [1684-count-the-number-of-consistent-strings](https://github.com/manoj-s2006/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/manoj-s2006/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1768-merge-strings-alternately](https://github.com/manoj-s2006/DSA/tree/master/1768-merge-strings-alternately) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/manoj-s2006/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/manoj-s2006/DSA/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2103-rings-and-rods](https://github.com/manoj-s2006/DSA/tree/master/2103-rings-and-rods) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/manoj-s2006/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -262,6 +263,7 @@ regular
 | [1512-number-of-good-pairs](https://github.com/manoj-s2006/DSA/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/manoj-s2006/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/manoj-s2006/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/manoj-s2006/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/manoj-s2006/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/manoj-s2006/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -296,6 +298,7 @@ regular
 | [1512-number-of-good-pairs](https://github.com/manoj-s2006/DSA/tree/master/1512-number-of-good-pairs) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/manoj-s2006/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/manoj-s2006/DSA/tree/master/1748-sum-of-unique-elements) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/manoj-s2006/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/manoj-s2006/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2103-rings-and-rods](https://github.com/manoj-s2006/DSA/tree/master/2103-rings-and-rods) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/manoj-s2006/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
