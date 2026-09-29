@@ -58,6 +58,7 @@ regular
 | [2788-split-strings-by-separator](https://github.com/manoj-s2006/DSA/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/manoj-s2006/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manoj-s2006/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/manoj-s2006/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2942-find-words-containing-character](https://github.com/manoj-s2006/DSA/tree/master/2942-find-words-containing-character) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/manoj-s2006/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/manoj-s2006/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
@@ -125,6 +126,7 @@ regular
 | [1684-count-the-number-of-consistent-strings](https://github.com/manoj-s2006/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/manoj-s2006/DSA/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/manoj-s2006/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/manoj-s2006/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/manoj-s2006/DSA/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Simulation
 |  |
