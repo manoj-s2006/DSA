@@ -69,6 +69,7 @@ regular
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manoj-s2006/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/manoj-s2006/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/manoj-s2006/DSA/tree/master/3285-find-indices-of-stable-mountains) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/manoj-s2006/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/manoj-s2006/DSA/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manoj-s2006/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -106,6 +107,7 @@ regular
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/manoj-s2006/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manoj-s2006/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/manoj-s2006/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/manoj-s2006/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manoj-s2006/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/manoj-s2006/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -169,6 +171,7 @@ regular
 | [1480-running-sum-of-1d-array](https://github.com/manoj-s2006/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [2485-find-the-pivot-integer](https://github.com/manoj-s2006/DSA/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/manoj-s2006/DSA/tree/master/2574-left-and-right-sum-differences) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/manoj-s2006/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3903-smallest-stable-index-i](https://github.com/manoj-s2006/DSA/tree/master/3903-smallest-stable-index-i) |
 ## Two Pointers
 |  |
