@@ -156,6 +156,7 @@ regular
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manoj-s2006/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/manoj-s2006/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/manoj-s2006/DSA/tree/master/0118-pascals-triangle) |
@@ -197,6 +198,7 @@ regular
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manoj-s2006/DSA/tree/master/0042-trapping-rain-water) |
 | [0682-baseball-game](https://github.com/manoj-s2006/DSA/tree/master/0682-baseball-game) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manoj-s2006/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -210,6 +212,7 @@ regular
 | ------- |
 | [0014-longest-common-prefix](https://github.com/manoj-s2006/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/manoj-s2006/DSA/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/manoj-s2006/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/manoj-s2006/DSA/tree/master/0412-fizz-buzz) |
@@ -422,6 +425,7 @@ regular
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0032-longest-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manoj-s2006/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
