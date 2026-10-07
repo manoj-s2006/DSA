@@ -449,4 +449,8 @@ regular
 |  |
 | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0301-remove-invalid-parentheses) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/manoj-s2006/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
