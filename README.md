@@ -218,6 +218,7 @@ regular
 | [0020-valid-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0179-largest-number](https://github.com/manoj-s2006/DSA/tree/master/0179-largest-number) |
+| [0301-remove-invalid-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/manoj-s2006/DSA/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/manoj-s2006/DSA/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/manoj-s2006/DSA/tree/master/0434-number-of-segments-in-a-string) |
@@ -412,6 +413,7 @@ regular
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manoj-s2006/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0301-remove-invalid-parentheses) |
 ## Binary Tree
 |  |
 | ------- |
@@ -443,4 +445,8 @@ regular
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/manoj-s2006/DSA/tree/master/0303-range-sum-query-immutable) |
+## Backtracking
+|  |
+| ------- |
+| [0301-remove-invalid-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
