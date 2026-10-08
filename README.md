@@ -205,6 +205,7 @@ regular
 | [0682-baseball-game](https://github.com/manoj-s2006/DSA/tree/master/0682-baseball-game) |
 | [0856-score-of-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manoj-s2006/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/manoj-s2006/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manoj-s2006/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manoj-s2006/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -229,6 +230,7 @@ regular
 | [0819-most-common-word](https://github.com/manoj-s2006/DSA/tree/master/0819-most-common-word) |
 | [0856-score-of-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manoj-s2006/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/manoj-s2006/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/manoj-s2006/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/manoj-s2006/DSA/tree/master/1108-defanging-an-ip-address) |
 | [1507-reformat-date](https://github.com/manoj-s2006/DSA/tree/master/1507-reformat-date) |
@@ -440,6 +442,7 @@ regular
 | [0678-valid-parenthesis-string](https://github.com/manoj-s2006/DSA/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/manoj-s2006/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/manoj-s2006/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/manoj-s2006/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
