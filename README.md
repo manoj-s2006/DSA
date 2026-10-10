@@ -50,6 +50,7 @@ regular
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/manoj-s2006/DSA/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/manoj-s2006/DSA/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/manoj-s2006/DSA/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/manoj-s2006/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2367-number-of-arithmetic-triplets](https://github.com/manoj-s2006/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/manoj-s2006/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
@@ -282,6 +283,7 @@ regular
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/manoj-s2006/DSA/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manoj-s2006/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/manoj-s2006/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manoj-s2006/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/manoj-s2006/DSA/tree/master/2974-minimum-number-game) |
@@ -312,6 +314,7 @@ regular
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/manoj-s2006/DSA/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/manoj-s2006/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manoj-s2006/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/manoj-s2006/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/manoj-s2006/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Quicksort
 |  |
@@ -356,6 +359,7 @@ regular
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/manoj-s2006/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/manoj-s2006/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/manoj-s2006/DSA/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/manoj-s2006/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manoj-s2006/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Number Theory
 |  |
@@ -396,6 +400,7 @@ regular
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/manoj-s2006/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2974-minimum-number-game](https://github.com/manoj-s2006/DSA/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/manoj-s2006/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Recursion
