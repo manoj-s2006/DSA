@@ -38,6 +38,7 @@ regular
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/manoj-s2006/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1512-number-of-good-pairs](https://github.com/manoj-s2006/DSA/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/manoj-s2006/DSA/tree/master/1534-count-good-triplets) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/manoj-s2006/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1572-matrix-diagonal-sum](https://github.com/manoj-s2006/DSA/tree/master/1572-matrix-diagonal-sum) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/manoj-s2006/DSA/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/manoj-s2006/DSA/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -106,6 +107,7 @@ regular
 | [1137-n-th-tribonacci-number](https://github.com/manoj-s2006/DSA/tree/master/1137-n-th-tribonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/manoj-s2006/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/manoj-s2006/DSA/tree/master/1512-number-of-good-pairs) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/manoj-s2006/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2235-add-two-integers](https://github.com/manoj-s2006/DSA/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/manoj-s2006/DSA/tree/master/2413-smallest-even-multiple) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/manoj-s2006/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -172,12 +174,14 @@ regular
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manoj-s2006/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0678-valid-parenthesis-string](https://github.com/manoj-s2006/DSA/tree/master/0678-valid-parenthesis-string) |
 | [1137-n-th-tribonacci-number](https://github.com/manoj-s2006/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/manoj-s2006/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1668-maximum-repeating-substring](https://github.com/manoj-s2006/DSA/tree/master/1668-maximum-repeating-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/manoj-s2006/DSA/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/manoj-s2006/DSA/tree/master/0191-number-of-1-bits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/manoj-s2006/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -400,6 +404,7 @@ regular
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/manoj-s2006/DSA/tree/master/1137-n-th-tribonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/manoj-s2006/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
 | ------- |
@@ -432,6 +437,7 @@ regular
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manoj-s2006/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/manoj-s2006/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -445,6 +451,7 @@ regular
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manoj-s2006/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/manoj-s2006/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Enumeration
 |  |
 | ------- |
@@ -504,4 +511,20 @@ regular
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/manoj-s2006/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/manoj-s2006/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/manoj-s2006/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/manoj-s2006/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/manoj-s2006/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/manoj-s2006/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
