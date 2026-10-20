@@ -91,6 +91,7 @@ regular
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/manoj-s2006/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/manoj-s2006/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3838-weighted-word-mapping](https://github.com/manoj-s2006/DSA/tree/master/3838-weighted-word-mapping) |
+| [3886-sum-of-sortable-integers](https://github.com/manoj-s2006/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/manoj-s2006/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/manoj-s2006/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/manoj-s2006/DSA/tree/master/3925-concatenate-array-with-reverse) |
@@ -127,6 +128,7 @@ regular
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/manoj-s2006/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/manoj-s2006/DSA/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3871-count-commas-in-range-ii](https://github.com/manoj-s2006/DSA/tree/master/3871-count-commas-in-range-ii) |
+| [3886-sum-of-sortable-integers](https://github.com/manoj-s2006/DSA/tree/master/3886-sum-of-sortable-integers) |
 | [3894-traffic-signal-color](https://github.com/manoj-s2006/DSA/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/manoj-s2006/DSA/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/manoj-s2006/DSA/tree/master/3945-digit-frequency-score) |
@@ -305,6 +307,7 @@ regular
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/manoj-s2006/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/manoj-s2006/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/manoj-s2006/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/manoj-s2006/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## Counting
 |  |
 | ------- |
@@ -462,6 +465,7 @@ regular
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/manoj-s2006/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/manoj-s2006/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/manoj-s2006/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3886-sum-of-sortable-integers](https://github.com/manoj-s2006/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## String Matching
 |  |
 | ------- |
