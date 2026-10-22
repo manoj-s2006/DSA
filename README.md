@@ -95,6 +95,7 @@ regular
 | [3898-find-the-degree-of-each-vertex](https://github.com/manoj-s2006/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/manoj-s2006/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/manoj-s2006/DSA/tree/master/3925-concatenate-array-with-reverse) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/manoj-s2006/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
 |  |
 | ------- |
