@@ -84,6 +84,7 @@ regular
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manoj-s2006/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/manoj-s2006/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/manoj-s2006/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/manoj-s2006/DSA/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3701-compute-alternating-sum](https://github.com/manoj-s2006/DSA/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manoj-s2006/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -149,6 +150,7 @@ regular
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/manoj-s2006/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2859-sum-of-values-at-indices-with-k-set-bits](https://github.com/manoj-s2006/DSA/tree/master/2859-sum-of-values-at-indices-with-k-set-bits) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/manoj-s2006/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/manoj-s2006/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/manoj-s2006/DSA/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Simulation
 |  |
