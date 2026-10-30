@@ -178,6 +178,7 @@ regular
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manoj-s2006/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/manoj-s2006/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/manoj-s2006/DSA/tree/master/0053-maximum-subarray) |
@@ -208,6 +209,7 @@ regular
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manoj-s2006/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/manoj-s2006/DSA/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/manoj-s2006/DSA/tree/master/0075-sort-colors) |
 | [0287-find-the-duplicate-number](https://github.com/manoj-s2006/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -241,6 +243,7 @@ regular
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/manoj-s2006/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/manoj-s2006/DSA/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/manoj-s2006/DSA/tree/master/0032-longest-valid-parentheses) |
@@ -558,4 +561,8 @@ regular
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/manoj-s2006/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/manoj-s2006/DSA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
