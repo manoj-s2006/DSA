@@ -19,6 +19,7 @@ regular
 | [0287-find-the-duplicate-number](https://github.com/manoj-s2006/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/manoj-s2006/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/manoj-s2006/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/manoj-s2006/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/manoj-s2006/DSA/tree/master/0477-total-hamming-distance) |
 | [0500-keyboard-row](https://github.com/manoj-s2006/DSA/tree/master/0500-keyboard-row) |
 | [0560-subarray-sum-equals-k](https://github.com/manoj-s2006/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -108,6 +109,7 @@ regular
 | [0060-permutation-sequence](https://github.com/manoj-s2006/DSA/tree/master/0060-permutation-sequence) |
 | [0172-factorial-trailing-zeroes](https://github.com/manoj-s2006/DSA/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/manoj-s2006/DSA/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/manoj-s2006/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0477-total-hamming-distance](https://github.com/manoj-s2006/DSA/tree/master/0477-total-hamming-distance) |
 | [0728-self-dividing-numbers](https://github.com/manoj-s2006/DSA/tree/master/0728-self-dividing-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/manoj-s2006/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
