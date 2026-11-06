@@ -65,6 +65,7 @@ regular
 | [2574-left-and-right-sum-differences](https://github.com/manoj-s2006/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/manoj-s2006/DSA/tree/master/2614-prime-in-diagonal) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/manoj-s2006/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/manoj-s2006/DSA/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/manoj-s2006/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2788-split-strings-by-separator](https://github.com/manoj-s2006/DSA/tree/master/2788-split-strings-by-separator) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/manoj-s2006/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -329,6 +330,7 @@ regular
 | [2089-find-target-indices-after-sorting-array](https://github.com/manoj-s2006/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/manoj-s2006/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
+| [2747-count-zero-request-servers](https://github.com/manoj-s2006/DSA/tree/master/2747-count-zero-request-servers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manoj-s2006/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/manoj-s2006/DSA/tree/master/2974-minimum-number-game) |
 | [3467-transform-array-by-parity](https://github.com/manoj-s2006/DSA/tree/master/3467-transform-array-by-parity) |
@@ -396,6 +398,7 @@ regular
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/manoj-s2006/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2716-minimize-string-length](https://github.com/manoj-s2006/DSA/tree/master/2716-minimize-string-length) |
+| [2747-count-zero-request-servers](https://github.com/manoj-s2006/DSA/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/manoj-s2006/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/manoj-s2006/DSA/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/manoj-s2006/DSA/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -457,6 +460,7 @@ regular
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/manoj-s2006/DSA/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manoj-s2006/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/manoj-s2006/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
