@@ -134,6 +134,7 @@ regular
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/manoj-s2006/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2469-convert-the-temperature](https://github.com/manoj-s2006/DSA/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/manoj-s2006/DSA/tree/master/2485-find-the-pivot-integer) |
+| [2523-closest-prime-numbers-in-range](https://github.com/manoj-s2006/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/manoj-s2006/DSA/tree/master/2614-prime-in-diagonal) |
 | [2652-sum-multiples](https://github.com/manoj-s2006/DSA/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/manoj-s2006/DSA/tree/master/2769-find-the-maximum-achievable-number) |
@@ -434,6 +435,7 @@ regular
 | ------- |
 | [0204-count-primes](https://github.com/manoj-s2006/DSA/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/manoj-s2006/DSA/tree/master/2413-smallest-even-multiple) |
+| [2523-closest-prime-numbers-in-range](https://github.com/manoj-s2006/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/manoj-s2006/DSA/tree/master/2614-prime-in-diagonal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Pigeonhole Principle
@@ -489,6 +491,7 @@ regular
 | ------- |
 | [0204-count-primes](https://github.com/manoj-s2006/DSA/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/manoj-s2006/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [2523-closest-prime-numbers-in-range](https://github.com/manoj-s2006/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 ## Tree
 |  |
 | ------- |
@@ -608,8 +611,10 @@ regular
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/manoj-s2006/DSA/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/manoj-s2006/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/manoj-s2006/DSA/tree/master/0204-count-primes) |
+| [2523-closest-prime-numbers-in-range](https://github.com/manoj-s2006/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 <!---LeetCode Topics End-->
