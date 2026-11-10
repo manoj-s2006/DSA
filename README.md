@@ -15,6 +15,7 @@ regular
 | [0118-pascals-triangle](https://github.com/manoj-s2006/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/manoj-s2006/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0179-largest-number](https://github.com/manoj-s2006/DSA/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/manoj-s2006/DSA/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/manoj-s2006/DSA/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/manoj-s2006/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/manoj-s2006/DSA/tree/master/0303-range-sum-query-immutable) |
@@ -114,6 +115,7 @@ regular
 | [0009-palindrome-number](https://github.com/manoj-s2006/DSA/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/manoj-s2006/DSA/tree/master/0060-permutation-sequence) |
 | [0172-factorial-trailing-zeroes](https://github.com/manoj-s2006/DSA/tree/master/0172-factorial-trailing-zeroes) |
+| [0204-count-primes](https://github.com/manoj-s2006/DSA/tree/master/0204-count-primes) |
 | [0412-fizz-buzz](https://github.com/manoj-s2006/DSA/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/manoj-s2006/DSA/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/manoj-s2006/DSA/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -430,6 +432,7 @@ regular
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/manoj-s2006/DSA/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/manoj-s2006/DSA/tree/master/2413-smallest-even-multiple) |
 | [2614-prime-in-diagonal](https://github.com/manoj-s2006/DSA/tree/master/2614-prime-in-diagonal) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -484,6 +487,7 @@ regular
 ## Primality Test
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/manoj-s2006/DSA/tree/master/0204-count-primes) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/manoj-s2006/DSA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Tree
 |  |
@@ -513,6 +517,7 @@ regular
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/manoj-s2006/DSA/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/manoj-s2006/DSA/tree/master/1534-count-good-triplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/manoj-s2006/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/manoj-s2006/DSA/tree/master/2367-number-of-arithmetic-triplets) |
@@ -599,4 +604,12 @@ regular
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/manoj-s2006/DSA/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/manoj-s2006/DSA/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/manoj-s2006/DSA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
