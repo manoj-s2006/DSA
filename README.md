@@ -66,6 +66,7 @@ regular
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/manoj-s2006/DSA/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/manoj-s2006/DSA/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2553-separate-the-digits-in-an-array](https://github.com/manoj-s2006/DSA/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/manoj-s2006/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2574-left-and-right-sum-differences](https://github.com/manoj-s2006/DSA/tree/master/2574-left-and-right-sum-differences) |
 | [2614-prime-in-diagonal](https://github.com/manoj-s2006/DSA/tree/master/2614-prime-in-diagonal) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/manoj-s2006/DSA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -357,6 +358,7 @@ regular
 | [2089-find-target-indices-after-sorting-array](https://github.com/manoj-s2006/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/manoj-s2006/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2418-sort-the-people](https://github.com/manoj-s2006/DSA/tree/master/2418-sort-the-people) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/manoj-s2006/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/manoj-s2006/DSA/tree/master/2747-count-zero-request-servers) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manoj-s2006/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/manoj-s2006/DSA/tree/master/2974-minimum-number-game) |
@@ -392,6 +394,7 @@ regular
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/manoj-s2006/DSA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/manoj-s2006/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/manoj-s2006/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/manoj-s2006/DSA/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/manoj-s2006/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/manoj-s2006/DSA/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/manoj-s2006/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
