@@ -91,6 +91,7 @@ regular
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manoj-s2006/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/manoj-s2006/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3285-find-indices-of-stable-mountains](https://github.com/manoj-s2006/DSA/tree/master/3285-find-indices-of-stable-mountains) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/manoj-s2006/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/manoj-s2006/DSA/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/manoj-s2006/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/manoj-s2006/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -332,6 +333,7 @@ regular
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/manoj-s2006/DSA/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3110-score-of-a-string](https://github.com/manoj-s2006/DSA/tree/master/3110-score-of-a-string) |
 | [3330-find-the-original-typed-string-i](https://github.com/manoj-s2006/DSA/tree/master/3330-find-the-original-typed-string-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/manoj-s2006/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3498-reverse-degree-of-a-string](https://github.com/manoj-s2006/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/manoj-s2006/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/manoj-s2006/DSA/tree/master/3794-reverse-string-prefix) |
@@ -440,6 +442,7 @@ regular
 | [3005-count-elements-with-maximum-frequency](https://github.com/manoj-s2006/DSA/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3083-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/manoj-s2006/DSA/tree/master/3083-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/manoj-s2006/DSA/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/manoj-s2006/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/manoj-s2006/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/manoj-s2006/DSA/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -526,6 +529,7 @@ regular
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/manoj-s2006/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/manoj-s2006/DSA/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/manoj-s2006/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/manoj-s2006/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -533,6 +537,7 @@ regular
 | [0104-maximum-depth-of-binary-tree](https://github.com/manoj-s2006/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/manoj-s2006/DSA/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/manoj-s2006/DSA/tree/master/1267-count-servers-that-communicate) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/manoj-s2006/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/manoj-s2006/DSA/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/manoj-s2006/DSA/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
