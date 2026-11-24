@@ -94,6 +94,7 @@ regular
 | [3285-find-indices-of-stable-mountains](https://github.com/manoj-s2006/DSA/tree/master/3285-find-indices-of-stable-mountains) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/manoj-s2006/DSA/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/manoj-s2006/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/manoj-s2006/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/manoj-s2006/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/manoj-s2006/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/manoj-s2006/DSA/tree/master/3467-transform-array-by-parity) |
@@ -152,6 +153,7 @@ regular
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/manoj-s2006/DSA/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/manoj-s2006/DSA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/manoj-s2006/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/manoj-s2006/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/manoj-s2006/DSA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/manoj-s2006/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/manoj-s2006/DSA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -469,6 +471,7 @@ regular
 | [2413-smallest-even-multiple](https://github.com/manoj-s2006/DSA/tree/master/2413-smallest-even-multiple) |
 | [2523-closest-prime-numbers-in-range](https://github.com/manoj-s2006/DSA/tree/master/2523-closest-prime-numbers-in-range) |
 | [2614-prime-in-diagonal](https://github.com/manoj-s2006/DSA/tree/master/2614-prime-in-diagonal) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/manoj-s2006/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 ## Pigeonhole Principle
 |  |
@@ -507,6 +510,7 @@ regular
 | [2747-count-zero-request-servers](https://github.com/manoj-s2006/DSA/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/manoj-s2006/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3364-minimum-positive-sum-subarray](https://github.com/manoj-s2006/DSA/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/manoj-s2006/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/manoj-s2006/DSA/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/manoj-s2006/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Heap (Priority Queue)
@@ -564,6 +568,7 @@ regular
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/manoj-s2006/DSA/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/manoj-s2006/DSA/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/manoj-s2006/DSA/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/manoj-s2006/DSA/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3886-sum-of-sortable-integers](https://github.com/manoj-s2006/DSA/tree/master/3886-sum-of-sortable-integers) |
 ## String Matching
 |  |
