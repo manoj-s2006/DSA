@@ -118,6 +118,7 @@ regular
 | [3898-find-the-degree-of-each-vertex](https://github.com/manoj-s2006/DSA/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3903-smallest-stable-index-i](https://github.com/manoj-s2006/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/manoj-s2006/DSA/tree/master/3925-concatenate-array-with-reverse) |
+| [3934-smallest-unique-subarray](https://github.com/manoj-s2006/DSA/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/manoj-s2006/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Math
 |  |
@@ -453,6 +454,7 @@ regular
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/manoj-s2006/DSA/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/manoj-s2006/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/manoj-s2006/DSA/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3934-smallest-unique-subarray](https://github.com/manoj-s2006/DSA/tree/master/3934-smallest-unique-subarray) |
 | [3945-digit-frequency-score](https://github.com/manoj-s2006/DSA/tree/master/3945-digit-frequency-score) |
 ## Binary Search
 |  |
@@ -464,6 +466,7 @@ regular
 | [2089-find-target-indices-after-sorting-array](https://github.com/manoj-s2006/DSA/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/manoj-s2006/DSA/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/manoj-s2006/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3934-smallest-unique-subarray](https://github.com/manoj-s2006/DSA/tree/master/3934-smallest-unique-subarray) |
 ## Number Theory
 |  |
 | ------- |
@@ -676,4 +679,16 @@ regular
 |  |
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/manoj-s2006/DSA/tree/master/1352-product-of-the-last-k-numbers) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/manoj-s2006/DSA/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/manoj-s2006/DSA/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/manoj-s2006/DSA/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
