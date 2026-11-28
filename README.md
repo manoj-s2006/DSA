@@ -120,6 +120,7 @@ regular
 | [3925-concatenate-array-with-reverse](https://github.com/manoj-s2006/DSA/tree/master/3925-concatenate-array-with-reverse) |
 | [3934-smallest-unique-subarray](https://github.com/manoj-s2006/DSA/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/manoj-s2006/DSA/tree/master/3942-minimum-operations-to-sort-a-permutation) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/manoj-s2006/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Math
 |  |
 | ------- |
@@ -380,6 +381,7 @@ regular
 | [3727-maximum-alternating-sum-of-squares](https://github.com/manoj-s2006/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/manoj-s2006/DSA/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3886-sum-of-sortable-integers](https://github.com/manoj-s2006/DSA/tree/master/3886-sum-of-sortable-integers) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/manoj-s2006/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Counting
 |  |
 | ------- |
@@ -413,6 +415,7 @@ regular
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/manoj-s2006/DSA/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/manoj-s2006/DSA/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/manoj-s2006/DSA/tree/master/3789-minimum-cost-to-acquire-required-items) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/manoj-s2006/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -526,6 +529,7 @@ regular
 | [2974-minimum-number-game](https://github.com/manoj-s2006/DSA/tree/master/2974-minimum-number-game) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/manoj-s2006/DSA/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/manoj-s2006/DSA/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+| [3947-maximum-number-of-items-from-sale-ii](https://github.com/manoj-s2006/DSA/tree/master/3947-maximum-number-of-items-from-sale-ii) |
 ## Recursion
 |  |
 | ------- |
